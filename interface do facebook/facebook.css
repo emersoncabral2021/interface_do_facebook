@@ -1,0 +1,84 @@
+body{
+    background-color: #e1eaf7;
+}
+.img-logo{
+    width: 300px;
+    margin-left: 250px;   
+    
+    
+} 
+#item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.login{
+    width: 350px;
+    margin-right:200px ;
+}
+.card-body{
+    background-color: white;
+    margin-right: 300px;
+    border-radius: 20px;
+    width: 330px;
+    
+}
+img{
+    padding-right: 90px;
+    width: 350px;
+}
+input{
+    width: 300px;
+}
+#senha{
+    margin-top: 15px;
+}
+#entrar{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    margin-top: 15px;
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+#criar{
+    color: white;
+    background-color: rgb(47, 214, 47);
+    border: none;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 70px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.p{
+    text-align: center;
+    margin-top: 15px;
+    
+}
+.p1{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 25px;
+    width: 400px;
+    
+}
+.footer{
+    background-color: white;
+    color: #919090;
+    margin-top: 90px;
+    text-decoration: none;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+    
+    
+}
+
